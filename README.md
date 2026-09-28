@@ -1,5 +1,5 @@
 # OOPs_Programs
-# C++ Object-Oriented Programming
+# Object-Oriented Programming using C++
 
 This repository contains my C++ programs, practical exercises, and implementations developed as part of the **Object-Oriented Programming using C++** course.
 
