@@ -58,7 +58,7 @@ The main objective of this repository is to maintain a structured collection of 
 
 ## 👩‍💻 Author
 
-**Riya Gaikwad**
-Electronics and Communication Engineering
-KLE Technological University, Hubballi
+**Riya Gaikwad**  
+Electronics and Communication Engineering  
+KLE Technological University, Hubballi  
 
