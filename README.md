@@ -1,64 +1,128 @@
-# OOPs_Programs
-# Object-Oriented Programming using C++
+# OOPS_Programs
 
-This repository contains my C++ programs, practical exercises, and implementations developed as part of the **Object-Oriented Programming using C++** course.
+A collection of C++ programs and practical implementations performed as part of the Object-Oriented Programming course at KLE Technological University, Hubli-Dharwad.
 
-The programs cover fundamental C++ concepts, object-oriented principles, and practical coding exercises, organized according to the topics covered in class.
+**Course Code:** 26EECE421  
+**Course Title:** Object Oriented Programming using C++
 
-## 📚 Course Information
+---
 
-* **Course:** Object-Oriented Programming using C++
-* **Course Code:** 26EECE421
-* **University:** KLE Technological University
-* **Branch:** Electronics and Communication Engineering
-* **Language:** C++
+## Student Details
+- **Name:** Riya Gaikwad
+- **Branch:** Electronics and Communication Engineering
+- **University:** KLE Technological University, Hubli.
 
-## 📂 Repository Contents
+---
 
-### Chapter 1: Introduction to C++
+## Chapter 1 – Fundamentals of Object-Oriented Programming
 
-* Basics of C++ programming
-* Data types, variables and operators
-* Conditional statements and loops
-* Arrays and strings
-* Functions and parameter passing
-* Basic problem-solving programs
+Programs covering:
 
-### Chapter 2: Classes and Objects
+- Basics of C++ Programming
+- Introduction to Object-Oriented Programming
+- Arrays and Strings
+- Functions and Methods
+- Palindrome Checking
+- Finding the Largest Element in an Array
+- Parameter Passing Methods
+  - Pass by Value
+  - Pass by Reference
+  - Pass by Pointer
 
-* Classes and objects
-* Data members and member functions
-* Access specifiers
-* Encapsulation and data hiding
-* Constructors and their types
-* Destructors
-* Static members
-* Inline functions
-* Friend functions and friend classes
+---
 
-### Chapter 3: Inheritance
+## Chapter 2 – Classes and Objects
 
-* Fundamentals of inheritance
-* Base and derived classes
-* Single inheritance
-* Multilevel inheritance
-* Access control in inheritance
-* Implementing inheritance using C++
+Programs covering:
 
+- Class and Object Implementation
+- Scope Resolution Operator
+- Data Members and Member Functions
+- Encapsulation and Data Hiding
+- Access Specifiers (Public, Private and Protected)
+- Constructors
+  - Default Constructor
+  - Parameterized Constructor
+  - Copy Constructor
+- Destructors
+- Static Data Members and Member Functions
+- Inline Functions
+- Friend Functions and Friend Classes
+- Passing Objects to Functions
 
-## 🛠️ Technologies Used
+---
 
-* **Programming Language:** C++
-* **Concepts:** Object-Oriented Programming
-* **Tools:** C++ compiler and IDE
+## Chapter 3 – Inheritance
 
-## 🎯 Purpose
+Programs covering:
 
-The main objective of this repository is to maintain a structured collection of my C++ practical programs, strengthen my understanding of object-oriented concepts, and track my programming progress throughout the course.
+- Basics of Inheritance
+- Different Types of Inheritance
+  - Single Inheritance
+  - Multilevel Inheritance
+  - Multiple Inheritance
+- Base and Derived Classes
+- Access Control in Inheritance
+- Function Overriding and Overloading
+- Diamond Problem
+- Virtual Base Classes
+- Inheriting Private Members
 
-## 👩‍💻 Author
+---
+
+## Chapter 4 – Polymorphism
+
+Programs covering:
+
+- Concept of Polymorphism
+- Virtual Functions
+- Pure Virtual Functions
+- Abstract Classes
+- Static Functions
+- `this` Pointer
+- Operator Overloading
+  - Unary Operators
+  - Binary Operators
+- Complex Number Operations (Addition and Subtraction)
+
+---
+
+## Chapter 5 – Exception Handling
+
+Programs covering:
+
+- Basics of Exception Handling
+- Try and Catch Blocks
+- Throwing Exceptions
+- Handling Multiple Exceptions
+- Catch-All Handler
+- Nested Try Blocks
+- Exception Handling with Arguments
+
+---
+
+## Chapter 6 – Templates and I/O Streams
+
+Programs covering:
+
+- Introduction to Templates
+- Function Templates
+- Class Templates
+- C++ Stream Class Hierarchy
+- File Stream Operations
+- Text File Handling
+- Binary File Handling
+
+---
+
+## Tools and Technologies
+
+- C++ Programming Language
+- C++ Compiler
+- Integrated Development Environment (IDE)
+
+---
 
 **Riya Gaikwad**  
 Electronics and Communication Engineering  
-KLE Technological University, Hubballi  
-
+KLE Technological University, Hubli.
