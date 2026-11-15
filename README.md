@@ -1,6 +1,6 @@
 # OOPS_Programs
 
-A collection of C++ programs and practical implementations performed as part of the Object-Oriented Programming course at KLE Technological University, Hubli-Dharwad.
+A collection of C++ programs and practical implementations performed as part of the Object-Oriented Programming course at KLE Technological University, Hubli.
 
 **Course Code:** 26EECE421  
 **Course Title:** Object Oriented Programming using C++
@@ -112,14 +112,6 @@ Programs covering:
 - File Stream Operations
 - Text File Handling
 - Binary File Handling
-
----
-
-## Tools and Technologies
-
-- C++ Programming Language
-- C++ Compiler
-- Integrated Development Environment (IDE)
 
 ---
 
